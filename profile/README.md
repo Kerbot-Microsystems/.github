@@ -15,8 +15,12 @@
 
 ## Overview
 
-Kerbot Microsystems develops software systems for engineering-oriented workflows, intelligent tooling, and structured digital product environments.
+Kerbot Microsystems is a software organization founded in 2024 and focused on the development of engineering-oriented digital systems, intelligent tooling, and structured product environments.
 
-The organization focuses on practical applications where architecture, usability, interface discipline, and technical clarity are treated as core product qualities rather than secondary details.
+The organization was established with the goal of creating software that combines practical functionality, clear architecture, and strong product identity. From the beginning, its direction has been centered on building systems that support technical workflows, modular thinking, interface discipline, and long-term scalability.
 
----
+Kerbot Microsystems develops solutions intended for engineering use cases, technical analysis, workflow organization, simulation-related concepts, and AI-assisted interaction. Its ecosystem is designed to connect software logic, usability, and digital structure into products that feel coherent, deliberate, and professionally built.
+
+The organization focuses on practical applications where architecture, usability, interface discipline, and technical clarity are treated as core product qualities rather than secondary details. This approach reflects a broader vision of software as an integrated environment - not just a collection of isolated features, but a connected system shaped by consistency, precision, and purpose.
+
+Since its creation in 2024, Kerbot Microsystems has continued to evolve as a technology direction centered on modern engineering software, intelligent workflows, and structured digital product development.
