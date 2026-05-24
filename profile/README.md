@@ -1,13 +1,17 @@
 <div align="center">
 
-<img width="100%" alt="Kerbot Microsystems" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=gradient&customColorList=12,20,24,25,26&text=Kerbot%20Microsystems&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Engineering%20software%20for%20structured%20digital%20workflows&descSize=18&descAlignY=62" />
+# Kerbot Microsystems
+
+**Engineering software for structured digital workflows.**
+
+Software systems, intelligent tooling, and product environments built with clarity, discipline, and long-term architecture in mind.
 
 <br>
 
-<img src="https://img.shields.io/badge/Engineering%20Software-0F172A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/System%20Architecture-1D4ED8?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Workflows-2563EB?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Product%20Design-3B82F6?style=for-the-badge&logoColor=white" />
+![Engineering Software](https://img.shields.io/badge/Engineering%20Software-0F172A?style=for-the-badge)
+![System Architecture](https://img.shields.io/badge/System%20Architecture-1D4ED8?style=for-the-badge)
+![AI Workflows](https://img.shields.io/badge/AI%20Workflows-2563EB?style=for-the-badge)
+![Product Design](https://img.shields.io/badge/Product%20Design-3B82F6?style=for-the-badge)
 
 </div>
 
@@ -15,12 +19,25 @@
 
 ## Overview
 
-Kerbot Microsystems is a software organization founded in 2024 and focused on the development of engineering-oriented digital systems, intelligent tooling, and structured product environments.
+Kerbot Microsystems is a software organization founded in 2024, focused on engineering-oriented digital systems, intelligent workflow tools, and structured product experiences.
 
-The organization was established with the goal of creating software that combines practical functionality, clear architecture, and strong product identity. From the beginning, its direction has been centered on building systems that support technical workflows, modular thinking, interface discipline, and long-term scalability.
+We build software where architecture, usability, and product identity are treated as core engineering requirements. Our work is centered on practical systems that are clear to use, modular by design, and prepared for long-term growth.
 
-Kerbot Microsystems develops solutions intended for engineering use cases, technical analysis, workflow organization, simulation-related concepts, and AI-assisted interaction. Its ecosystem is designed to connect software logic, usability, and digital structure into products that feel coherent, deliberate, and professionally built.
+## Focus
 
-The organization focuses on practical applications where architecture, usability, interface discipline, and technical clarity are treated as core product qualities rather than secondary details. This approach reflects a broader vision of software as an integrated environment - not just a collection of isolated features, but a connected system shaped by consistency, precision, and purpose.
+- Engineering software and technical workflow platforms
+- AI-assisted tools for structured interaction
+- Simulation-related product concepts
+- Modular systems with clear architecture
+- Interface design for precise, professional workflows
 
-Since its creation in 2024, Kerbot Microsystems has continued to evolve as a technology direction centered on modern engineering software, intelligent workflows, and structured digital product development.
+## Principles
+
+- Build useful software before decorative software
+- Keep systems understandable, scalable, and maintainable
+- Treat interface quality as part of engineering quality
+- Design products as coherent environments, not isolated features
+
+## Direction
+
+Kerbot Microsystems develops modern software products for technical work, workflow organization, and intelligent digital interaction. The goal is simple: create systems that feel deliberate, reliable, and professionally built.
